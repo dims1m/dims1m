@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dims1m
 - 👀 I’m interested in .Net Core & Angular & API
 - 🌱 I’m currently learning .Net Core & Angular & API
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on some real project
 - 📫 How to reach me write me on email dims1mr@gmail.com
 
 <!---
